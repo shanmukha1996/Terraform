@@ -1,0 +1,14 @@
+VM contains op system
+CLoud support engineer- About Aspiegel-Provide own set of apps in Europe-Deploy apps on Orange Cloud-My role involves
+
+If more requests are coming, you may be need more containers. Kubernetes can dyanamically scale up and scale down
+
+Ansible - remote host
+
+4 EC2 Instances on AWS - Terraform. Re-run this script. Lost 2 VM's due to some reason
+
+Terraform - IAC, Ansible-Config Mgmt. Ex-I want to create 10 EC2 Instances and deploy Apache on EC2.
+
+Deeper DevOps Skills. 2-3 years down the line- Senior DevOps Engineer
+
+My current job is good. Learning scripting. Not giving exposure to DevOps. I am experimenting DevOps outside work
